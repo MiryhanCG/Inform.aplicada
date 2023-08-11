@@ -1,1 +1,1 @@
-# Inform.aplicada
+# Informatica.aplicada
